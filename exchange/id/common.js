@@ -19,63 +19,63 @@
 		"loading": "Sedang diproses...",
 		"cancelled": "Transaksi dibatalkan oleh pengguna.",
 		"error": "Satu kesilapan telah berlaku",
-		"withdrawalSubmitted": "Permintaan pengeluaran telah dihantar ke blockchain. Menunggu pengesahan..", 
-		"sellSubmitted": "Permintaan penjualan telah dihantar ke blockchain. Menunggu pengesahan..",
-		"sellConfirmed": "Permintaan penjualan token P3D anda telah disahkan di blockchain! Anda telah berjaya menjual {{tokens}} token P3D untuk {{eth}} ETH.",
+		"withdrawalSubmitted": "Pesanan pengeluaran telah dihantar ke blockchain. Menunggu pengesahan..", 
+		"sellSubmitted": "Pesanan penjualan telah dihantar ke blockchain. Menunggu pengesahan..",
+		"sellConfirmed": "Pesanan penjualan token P3D anda telah disahkan di blockchain! Anda telah berjaya menjual {{tokens}} token P3D untuk {{eth}} ETH.",
 		"sellExternal": "Seseorang telah menjual {{tokens}} token P3D untuk {{eth}} ETH.",
-		"buySubmitted": "Permintaan pembelian telah dihantar ke blockchain. Menunggu pengesahan..",
-		"buyConfirmed": "Permintaan pembelian token P3D anda telah disahkan di blockchain. Anda telah berjaya membeli {{tokens}} token P3D dengan {{eth}} ETH.",
+		"buySubmitted": "Pesanan pembelian telah dihantar ke blockchain. Menunggu pengesahan..",
+		"buyConfirmed": "Pesanan pembelian token P3D anda telah disahkan di blockchain. Anda telah berjaya membeli {{tokens}} token P3D dengan {{eth}} ETH.",
 		"buyExternal": "Seseorang telah membeli {{tokens}} token P3D dengan {{eth}} ETH.",
-		"transferSubmitted": "Permintaan pemindahan telah dihantar ke blockchain. Menunggu pengesahann..",
-		"transferConfirmed": "Permintaan pemindahan token P3D anda telah disahkan di blockchain! ANda telah berjaya memindahkan {{tokens}} token P3D.",
+		"transferSubmitted": "Pesanan pemindahan telah dihantar ke blockchain. Menunggu pengesahan..",
+		"transferConfirmed": "Pesanan pemindahan token P3D anda telah disahkan di blockchain! Anda telah berjaya memindahkan {{tokens}} token P3D.",
 		"transferExternal": "Seseorang telah memindahkan {{tokens}} token P3D."
 	},
-	"footer": "This is an entertainment platform, not an investment platform, are you not entertained?",
+	"footer": "Ini adalah sejenis permainan, bukan sebuah bentuk pelaburan, adakah anda telah terhibur?",
 	"pages": {
 		"purchase": {
-			"title": "Purchase tokens",
+			"title": "Pembelian token",
 			"item": {
 				"buy": {
-					"title": "Buy P3D tokens",
-					"spend": "Ethereum to spend",
-					"approx": "Approximately {{amount}} P3D tokens.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Purchase",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "Beli token P3D ",
+					"spend": "Ethereum yang akan digunakan",
+					"approx": "Lebih kurang {{amount}} token P3D.",
+					"invalid": "Sila taip nombor yang sah.",
+					"empty": "Sila taip nombor untuk mengetahui anggaran harga.",
+					"button": "Beli",
+					"hint": "1). Lebih tinggi nilai gas yang anda masukkan, lebih pantas pelombong ETH akan memilih dan mengesahkan transaksi anda."
 				},
 				"reinvest": {
-					"title": "Reinvest Gauntlet Rewards",
-					"button": "Reinvest!"
+					"title": "Laburkan Semula Ganjaran Gauntlet",
+					"button": "Laburkan semula!"
 				},
 				"recent": {
-					"title": "Recent buy orders",
-					"date": "Date.",
+					"title": "Pesanan pembelian terakhir",
+					"date": "Tarikh.",
 					"tx": "Tx.",
-					"address": "Address"
+					"address": "Alamat"
 				}
 			}
 		},
 		"sell": {
-			"title": "Sell tokens",
+			"title": "Penjualan token",
 			"item": {
 				"sell": {
-					"title": "Sell P3D tokens",
-					"spend": "Tokens to sell",
-					"approx": "Approximately {{amount}} ETH.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Sell!",
-					"all": "All",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction.",
-					"warning": "Are you sure you want to sell tokens? Selling is admitting to yourself, and everyone else that your hands are no longer strong enough to play. The 10% fee on your sale will definitely appreciated by other holders though.",
-					"confirm": "YES, I HAVE WEAK HANDS.",
-					"deny": "NO, I'VE FOUND NEW STRENGTH."
+					"title": "Jual token P3D",
+					"spend": "Token yang akan dijual",
+					"approx": "Lebih kurang {{amount}} ETH.",
+					"invalid": "Sila tapi nombor yang sah.",
+					"empty": "Sila taip nombor untuk mengetahui anggaran harga.",
+					"button": "Jual!",
+					"all": "Semua",
+					"hint": "1). Lebih tinggi nilai gas yang anda masukkan, lebih pantas pelombong ETH akan memilih dan mengesahkan transaksi anda.",
+					"warning": "Anda pasti anda ingin menjual semua token anda? Dengan menjual, anda mengaku kepada diri anda dan orang lain, bahawa anda tidak mempunyai cukup daya tahan untuk terus bermain. Yuran 10% dari hasil penjualan token anda akan dinikmati oleh mereka yang masih bermain.",
+					"confirm": "YA, SAYA TIDAK MAMPU UNTUK TERUS BERMAIN.",
+					"deny": "TIDAK, DAYA KETAHANAN SAYA MASIH TINGGI."
 				},
 				"withdraw": {
-					"title": "Outstanding Gauntlet Rewards",
-					"button": "Withdraw",
-					"reinvest": "Reinvest",
+					"title": "Baki Ganjaran Gauntlet",
+					"button": "Pengeluaran",
+					"reinvest": "Labur Semula",
 					"warning": "Would you like to withdraw your Gauntlet rewards? Don't worry there's no fee, the Eth is already as good as yours. But if you're enjoying yourself (and the way things are going) you might want to admit insanity and try our reinvest feature. More tokens means you get a larger share of all fees that are ever paid into the contract. It's kinda like doubling down, but you might get double, and you won't get nothing.",
 					"confirm": "YES, TELL THE ROBOT IT'S MY PAYDAY.",
 					"deny": "NO, I LIKE WHERE THIS IS GOING."
