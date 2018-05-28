@@ -76,28 +76,28 @@
 					"title": "Baki Ganjaran Gauntlet",
 					"button": "Pengeluaran",
 					"reinvest": "Labur Semula",
-					"warning": "Would you like to withdraw your Gauntlet rewards? Don't worry there's no fee, the Eth is already as good as yours. But if you're enjoying yourself (and the way things are going) you might want to admit insanity and try our reinvest feature. More tokens means you get a larger share of all fees that are ever paid into the contract. It's kinda like doubling down, but you might get double, and you won't get nothing.",
-					"confirm": "YES, TELL THE ROBOT IT'S MY PAYDAY.",
-					"deny": "NO, I LIKE WHERE THIS IS GOING."
+					"warning": "Adakah anda ingin mengeluarkan ganjaran Gauntlet anda? Jangan risau kerana tiada yuran, Eth tersebut adalah memang kepunyaan anda. Tetapi jika anda sedang terhibur (dengan permainan ini) anda mungkin ingin terus terhibur dan ingin mencuba untuk melabur semula. Lebih banyak token yang anda pegang, lebih banyak bahagian yang anda akan dapat dari yuran yang dikutip melalui kontrak ini. Ianya seolah menambah risiko, tetapi anda mungkin beroleh lebih keuntungan, dan anda tidak akan pulang dengan tangan kosong.",
+					"confirm": "YA, SILA BERITAHU ROBOT HARI INI HARI GAJI SAYA.",
+					"deny": "TIDAK, SAYA INGIN TERUS BERMAIN."
 				},
 				"recent": {
-					"title": "Recent sell orders",
-					"date": "Date.",
+					"title": "Pesanan penjualan terakhir",
+					"date": "Tarikh.",
 					"tx": "Tx.",
-					"address": "Address"
+					"address": "Alamat"
 				}
 			}
 		},
 		"transfer": {
-			"title": "Transfer tokens",
+			"title": "Pemindahan Token",
 			"item": {
 				"transfer": {
-					"title": "Transfer P3D tokens",
-					"spend": "Tokens to send",
-					"recipient": "Wallet of the recipient",
-					"invalid": "Invalid wallet address...",
-					"empty": "Invalid amount of tokens...",
-					"button": "Transfer",
+					"title": "Pindahkan token P3D",
+					"spend": "Token yang akan dipindahkan",
+					"recipient": "Wallet penerima",
+					"invalid": "Alamat wallet tidak sah...",
+					"empty": "Jumlah token tidak sah...",
+					"button": "Pindah",
 					"hint": " 1). Remember, there's a flat 10% fee on all tokens transferred <br> 2). Your outstanding Gauntlet Rewards will be automatically withdrawn to your eth wallet when you transfer tokens. Don't freak out.<br> 3). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
 				},
 				"recent": {
