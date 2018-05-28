@@ -5,24 +5,24 @@
 	},
 	"menu": {
 		"exchange" : [
-			"Tukar",
+			"Tukaran",
 			"Jual & Pengeluaran",
 			"Pemindahan",
 			"Simpanan"
 		],
-		"staking": "Staking & Masternode",
+		"staking": "Pegangan & Node Utama",
 		"news": "Berita",
 		"chat": "Berbual",
 		"explorer": "Pencarian"
 	},
 	"notifications": {
-		"loading": "Loading...",
-		"cancelled": "Transaction was cancelled by the user.",
-		"error": "An error occured",
-		"withdrawalSubmitted": "Withdrawal request has been transmitted to the blockchain. Awaiting confirmation..", 
-		"sellSubmitted": "Sell order has been transmitted to the blockchain. Awaiting confirmation..",
-		"sellConfirmed": "Your P3D token sell order has been confirmed by the blockchain! You succesfully sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"sellExternal": "Someone else just sold {{tokens}} P3D tokens for {{eth}} ETH.",
+		"loading": "Sedang diproses...",
+		"cancelled": "Transaksi dibatalkan oleh pengguna.",
+		"error": "Satu kesilapan telah berlaku",
+		"withdrawalSubmitted": "Permintaan pengeluaran telah dihantar ke blockchain. Menunggu pengesahan..", 
+		"sellSubmitted": "Permintaan penjualan telah dihantar ke blockchain. Menunggu pengesahan..",
+		"sellConfirmed": "Permintaan penjualan token P3D anda telah disahkan di blockchain! Anda telah berjaya menjual {{tokens}} token P3D untuk {{eth}} ETH.",
+		"sellExternal": "Seseorang telah menjual {{tokens}} token P3D untuk {{eth}} ETH.",
 		"buySubmitted": "Buy order has been transmitted to the blockchain. Awaiting confirmation..",
 		"buyConfirmed": "Your P3D token purchase order has been confirmed by the blockchain! You succesfully bought {{tokens}} P3D tokens with {{eth}} ETH.",
 		"buyExternal": "Someone else just bought {{tokens}} P3D tokens with {{eth}} ETH.",
