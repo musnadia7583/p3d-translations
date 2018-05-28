@@ -23,12 +23,12 @@
 		"sellSubmitted": "Permintaan penjualan telah dihantar ke blockchain. Menunggu pengesahan..",
 		"sellConfirmed": "Permintaan penjualan token P3D anda telah disahkan di blockchain! Anda telah berjaya menjual {{tokens}} token P3D untuk {{eth}} ETH.",
 		"sellExternal": "Seseorang telah menjual {{tokens}} token P3D untuk {{eth}} ETH.",
-		"buySubmitted": "Buy order has been transmitted to the blockchain. Awaiting confirmation..",
-		"buyConfirmed": "Your P3D token purchase order has been confirmed by the blockchain! You succesfully bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"buyExternal": "Someone else just bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"transferSubmitted": "Transfer order has been transmitted to the blockchain. Awaiting confirmation..",
-		"transferConfirmed": "Your P3D token transfer order has been confirmed by the blockchain! You succesfully transfered {{tokens}} P3D tokens.",
-		"transferExternal": "Someone else just transferred {{tokens}} P3D tokens."
+		"buySubmitted": "Permintaan pembelian telah dihantar ke blockchain. Menunggu pengesahan..",
+		"buyConfirmed": "Permintaan pembelian token P3D anda telah disahkan di blockchain. Anda telah berjaya membeli {{tokens}} token P3D dengan {{eth}} ETH.",
+		"buyExternal": "Seseorang telah membeli {{tokens}} token P3D dengan {{eth}} ETH.",
+		"transferSubmitted": "Permintaan pemindahan telah dihantar ke blockchain. Menunggu pengesahann..",
+		"transferConfirmed": "Permintaan pemindahan token P3D anda telah disahkan di blockchain! ANda telah berjaya memindahkan {{tokens}} token P3D.",
+		"transferExternal": "Seseorang telah memindahkan {{tokens}} token P3D."
 	},
 	"footer": "This is an entertainment platform, not an investment platform, are you not entertained?",
 	"pages": {
