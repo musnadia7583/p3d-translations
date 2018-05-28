@@ -1,19 +1,19 @@
 {
 	"masthead": {
-		"holdings": "Holdings",
-		"balance": "{{balance}} ETH in contract"
+		"holdings": "Simpanan",
+		"balance": "{{balance}} ETH di dalam kontrak"
 	},
 	"menu": {
 		"exchange" : [
-			"Exchange",
-			"Sell & Withdraw",
-			"Transfer",
-			"Holdings"
+			"Tukar",
+			"Jual & Pengeluaran",
+			"Pemindahan",
+			"Simpanan"
 		],
 		"staking": "Staking & Masternode",
-		"news": "News",
-		"chat": "Chat",
-		"explorer": "Explorer"
+		"news": "Berita",
+		"chat": "Berbual",
+		"explorer": "Pencarian"
 	},
 	"notifications": {
 		"loading": "Loading...",
